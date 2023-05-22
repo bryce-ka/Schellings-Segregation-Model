@@ -63,6 +63,3 @@ The `<verbosity_level>` parameter controls the output verbosity:
 - `1`: Each grid configuration for every iteration is printed.
 - `2`: Each grid configuration is printed with a delay between iterations.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
